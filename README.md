@@ -1,6 +1,6 @@
 # Automated Market Maker (AMM) Anchor Project
 
-A decentralized automated market maker (AMM) built on Solana using the [Anchor framework](https://project-serum.github.io/anchor/). This project implements an AMM based on a constant product curve, allowing users to initialize a liquidity pool, deposit tokens to provide liquidity, swap tokens, and withdraw liquidity.
+A decentralized automated market maker (AMM) built on Solana using the [Anchor framework](https://www.anchor-lang.com/docs). This project implements an AMM based on a constant product curve, allowing users to initialize a liquidity pool, deposit tokens to provide liquidity, swap tokens, and withdraw liquidity.
 
 ---
 
